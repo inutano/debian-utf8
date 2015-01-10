@@ -3,7 +3,7 @@
 # VERSION 0.1
 
 # Pull base image.
-FROM debian:jessie
+FROM debian:stable
 
 # :)
 MAINTAINER Tazro Inutano Ohta, inutano@gmail.com
